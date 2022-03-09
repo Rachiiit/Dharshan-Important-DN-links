@@ -2,3 +2,9 @@ https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html  -  Loss Func
 https://colab.research.google.com/drive/1aKpUxkT-C8y4XOOuNykETax284uGzIxk?usp=sharing - Moore's Law
 https://playground.tensorflow.org/#activation=relu&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=0&networkShape=8,6,4,5,8,5&seed=0.03533&showTestData=false&discretize=false&percTrainData=70&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false  -  Tinker With a Neural Network, Tensor flow playground
 https://colab.research.google.com/drive/1j2F4XInD534cz6lJU-EjCuhQISCY9Bkm?usp=sharing  -  Sequential, Keras
+https://colab.research.google.com/drive/11H_CdJqiCrFiitWbThTRGku2hsIP0pL9?usp=sharing  -  mnist
+https://colab.research.google.com/drive/11H_CdJqiCrFiitWbThTRGku2hsIP0pL9?usp=sharing  -  mnist
+https://www.tensorflow.org/api_docs/python/tf/keras/initializers/LecunUniform  -  Lecununiform
+https://colab.research.google.com/drive/1ogSrHUH1s67ax3bVdVv4sQK8fz4ZQnjf?usp=sharing  -  ANN Regression
+https://www.udacity.com/blog/2021/10/numpy-np-meshgrid-tutorial-for-beginners.html - Meshgrid
+https://www.geeksforgeeks.org/numpy-meshgrid-function/  -  Meshgrid
